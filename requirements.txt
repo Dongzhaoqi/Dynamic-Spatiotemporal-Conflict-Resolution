@@ -1,0 +1,2 @@
+# The algorithm core and invariant checks use only the Python standard library.
+# Python >= 3.10. No third-party runtime dependencies are required.
