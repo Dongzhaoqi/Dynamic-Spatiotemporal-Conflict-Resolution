@@ -1,8 +1,5 @@
 # Alignment with the manuscript
-
-本目录聚焦论文算法。模型、目标函数、冲突分块、修复和在线更新按论文第 II–III 节整理；实验图、场景生成、对比算法及地图和实机流程均不包含在发布目录中。
-
-The reference is the supplied manuscript, **Dynamic Spatiotemporal Conflict Resolution for Multi–Robot Path Planning in Three–Dimensional Workspaces**. This document maps the implementation to Sections II–III, Eqs. (1)–(19), and Algorithm 1. Algorithm defaults also use the explicit settings in Section IV-A and Table I. It describes a substantial algorithm refactor, not a claim that the experimental results have been reproduced.
+This document maps the implementation to Sections II–III, Eqs. (1)–(19), and Algorithm 1. Algorithm defaults also use the explicit settings in Section IV-A and Table I. It describes a substantial algorithm refactor, not a claim that the experimental results have been reproduced.
 
 ## Equation and module map
 
